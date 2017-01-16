@@ -1,2 +1,6 @@
 # nazimBot
-A bot generates sample Turkish text that look like Nazim Hikmet
+A bot using tflearn that generates sample Turkish text that look like Nazim Hikmet.
+
+Some sample text: 
+
+
