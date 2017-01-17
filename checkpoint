@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/cemheren/tflearnRNN/nazim/nazim.final"
+all_model_checkpoint_paths: "/home/cemheren/tflearnRNN/nazim/nazim.final"
